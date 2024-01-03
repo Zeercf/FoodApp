@@ -1,0 +1,41 @@
+Chính Sách Bảo Mật
+Ứng dụng FoodApp là bên kiểm soát dữ liệu đối với dữ liệu cá nhân của bạn.
+
+Chúng tôi đã thông qua Chính Sách Bảo Mật này, xác định cách chúng tôi xử lý thông tin do FoodApp thu thập, đồng thời cung cấp lý do tại sao chúng tôi phải thu thập một số dữ liệu cá nhân nhất định về bạn. Do đó, bạn phải đọc Chính Sách Bảo Mật này trước khi sử dụng ứng dụngg.
+
+Chúng tôi chăm sóc dữ liệu cá nhân của bạn và cam kết đảm bảo tính bảo mật và an toàn của dữ liệu đó.
+
+Thông tin cá nhân chúng tôi thu thập:
+Khi bạn truy cập FoodApp, chúng tôi tự động thu thập một số thông tin nhất định về thiết bị của bạn, bao gồm thông tin về app, địa chỉ IP, múi giờ và một số cookie đã cài đặt trên thiết bị của bạn. Ngoài ra, khi bạn duyệt  app, chúng tôi thu thập thông tin về các  app hoặc sản phẩm riêng lẻ mà bạn xem, những  app hoặc cụm từ tìm kiếm nào đã giới thiệu bạn đến  app và cách bạn tương tác với  app. Chúng tôi gọi thông tin được thu thập tự động này là “Thông tin thiết bị”. Hơn nữa, chúng tôi có thể thu thập dữ liệu cá nhân mà bạn cung cấp cho chúng tôi (bao gồm nhưng không giới hạn ở Tên, Họ, Địa Chỉ, Thông Tin Thanh Toán, v.v.) trong quá trình đăng ký để có thể thực hiện thỏa thuận.
+
+Tại sao chúng tôi xử lý dữ liệu của bạn?
+Ưu tiên hàng đầu của chúng tôi là bảo mật dữ liệu khách hàng và do đó, chúng tôi có thể chỉ xử lý dữ liệu người dùng tối thiểu, chỉ ở chừng mực cần thiết để duy trì  app. Thông tin thu thập tự động chỉ được sử dụng để xác định các trường hợp lạm dụng tiềm ẩn và thiết lập thông tin thống kê liên quan đến việc sử dụng  app. Thông tin thống kê này không được tổng hợp theo cách khác để xác định bất kỳ người dùng cụ thể nào của hệ thống.
+
+Bạn có thể truy cập  app mà không cần cho chúng tôi biết bạn là ai hoặc tiết lộ bất kỳ thông tin nào mà ai đó có thể xác định bạn là một cá nhân cụ thể, có thể nhận dạng được. Tuy nhiên, nếu bạn muốn sử dụng một số tính năng của  app hoặc bạn muốn nhận bản tin của chúng tôi hoặc cung cấp các chi tiết khác bằng cách điền vào biểu mẫu, bạn có thể cung cấp dữ liệu cá nhân cho chúng tôi, chẳng hạn như email, họ, tên, thành phố của bạn, nơi cư trú, tổ chức, số điện thoại. Bạn có thể chọn không cung cấp cho chúng tôi dữ liệu cá nhân của mình, nhưng khi đó bạn có thể không tận dụng được một số tính năng của  app. Ví dụ: bạn sẽ không thể nhận bản tin của chúng tôi hoặc liên hệ trực tiếp với chúng tôi từ  app. Người dùng không chắc chắn về những thông tin bắt buộc có thể liên hệ với chúng tôi qua pt9.leduyminh468@gmail.com.
+
+Quyền của bạn:
+Nếu bạn là công dân Châu Âu, bạn có các quyền sau liên quan đến dữ liệu cá nhân của mình:
+
+Quyền được thông báo.
+Quyền truy cập.
+Quyền sửa chữa.
+Quyền xóa bỏ.
+Quyền hạn chế xử lý.
+Quyền đối với tính khả chuyển của dữ liệu.
+Quyền phản đối.
+Các quyền liên quan đến việc ra quyết định và lập hồ sơ tự động.
+Nếu bạn muốn thực hiện quyền này, vui lòng liên hệ với chúng tôi qua thông tin liên hệ bên dưới.
+
+Ngoài ra, nếu bạn là cư dân Châu Âu, chúng tôi lưu ý rằng chúng tôi đang xử lý thông tin của bạn để thực hiện các hợp đồng mà chúng tôi có thể có với bạn (ví dụ: nếu bạn đặt hàng qua  app) hoặc theo cách khác để theo đuổi lợi ích kinh doanh hợp pháp của chúng tôi được liệt kê ở trên. Ngoài ra, xin lưu ý rằng thông tin của bạn có thể được chuyển ra ngoài Châu Âu, bao gồm cả Canada và Hoa Kỳ.
+
+Liên kết đến các  app khác:
+ app của chúng tôi có thể chứa các liên kết đến các  app khác không do chúng tôi sở hữu hoặc kiểm soát. Xin lưu ý rằng chúng tôi không chịu trách nhiệm về các  app khác như vậy hoặc các thông lệ về quyền riêng tư của bên thứ ba. Chúng tôi khuyến khích bạn lưu ý khi bạn rời khỏi  app của chúng tôi và đọc các điều khoản về quyền riêng tư của mỗi  app có thể thu thập thông tin cá nhân.
+
+Bảo mật thông tin:
+Chúng tôi bảo mật thông tin bạn cung cấp trên máy chủ trong một môi trường được kiểm soát, an toàn, được bảo vệ khỏi sự truy cập, sử dụng hoặc tiết lộ trái phép. Chúng tôi giữ các biện pháp bảo vệ hành chính, kỹ thuật và vật lý hợp lý để bảo vệ chống lại việc truy cập, sử dụng, sửa đổi trái phép và tiết lộ dữ liệu cá nhân trong sự kiểm soát và lưu giữ của chúng tôi. Tuy nhiên, không thể đảm bảo việc truyền dữ liệu qua Internet hoặc mạng không dây.
+
+Tiết lộ pháp lý:
+Chúng tôi sẽ tiết lộ bất kỳ thông tin nào chúng tôi thu thập, sử dụng hoặc nhận được nếu pháp luật yêu cầu hoặc cho phép, chẳng hạn như để tuân thủ khi hầu tòa hoặc quy trình pháp lý tương tự và khi chúng tôi tin rằng việc tiết lộ là cần thiết để bảo vệ quyền lợi của chúng tôi, bảo vệ sự an toàn của bạn hoặc sự an toàn của những người khác, điều tra gian lận hoặc đáp ứng yêu cầu của chính phủ.
+
+Thông tin liên lạc:
+Nếu bạn muốn liên hệ với chúng tôi để hiểu thêm về Chính sách này hoặc muốn liên hệ với chúng tôi về bất kỳ vấn đề nào liên quan đến quyền cá nhân và Thông tin cá nhân của bạn, bạn có thể gửi email tới pt9.leduyminh468@gmail.com.
